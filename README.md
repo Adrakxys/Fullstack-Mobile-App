@@ -1,1 +1,1 @@
-Hi
+This project is a base for me to practice source control, node.js, and learn React Expo. This is in preparation for an upcoming project in development. To find out more please reach out to leightonseth06@gmail.com
